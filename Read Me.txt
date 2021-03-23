@@ -1,0 +1,9 @@
+MR radiomic platform (MRP) V5.0
+Developer - Chia-Feng Lu, Ph.D. @ 2018-2021
+alvin4016@nycu.edu.tw, alvin4016@ym.edu.tw
+More details, please visit - http://www.ym.edu.tw/~cflu/MRP_MLinglioma.html
+If this platform benefits your research, please cite the following paper...
+Lu et al, Machine Learning-Based Radiomics for Molecular Subtyping of Gliomas.
+Clinical Cancer Research, 2018, doi: 10.1158/1078-0432.CCR-17-3445
+
+Last Update by Chia-Feng Lu, 2021.3.2
